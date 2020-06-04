@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a76f5f1-3895-4e79-bf03-0b6613a4fdb8" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Tag Library Descriptor" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../develop/maven3.6.0/maven3.6.0" />
+        <option name="userSettingsFile" value="D:\develop\maven3.6.0\maven3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bycuQUr8tjqCjE9MFdsyuO5hrX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zc_service_provide/src/main/webapp" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\heima\ZCWorkSpace\study\zc_service_provide\src\main\webapp\WEB-INF\jsp" />
+      <recent name="D:\heima\ZCWorkSpace\study\zc_service_provide\src\main\webapp\WEB-INF" />
+      <recent name="D:\heima\ZCWorkSpace\study\zc_service_provide\src\main\webapp" />
+      <recent name="D:\heima\ZCWorkSpace\study\zc_service_provide\src\main\resources\templates" />
+      <recent name="D:\heima\ZCWorkSpace\study\zc_service_provide\src\main\java\jsp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.zc.eureka" />
+      <recent name="" />
+      <recent name="cn.zc.sprintboot" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.zc.service.pojo" />
+      <recent name="com.example.test.pojo" />
+      <recent name="com.zc.service.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\heima\ZCWorkSpace\study\zc-user\src\main\java\cn\zc\user\pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Digui">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Digui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Digui" />
+      <module name="demotest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JdkDemo" />
+      <module name="demotest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="demo" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZcEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="zc_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zc.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zc.eureka.ZcEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZcServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zc-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zc.service.ZcServiceConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZcServiceProvideApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="zc_service_provide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.service.ZcServiceProvideApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/zc_service_provide" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JdkDemo" />
+      <item itemvalue="Application.Digui" />
+      <item itemvalue="Spring Boot.ZcEurekaApplication" />
+      <item itemvalue="Spring Boot.ZcServiceConsumerApplication" />
+      <item itemvalue="Spring Boot.ZcServiceProvideApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Digui" />
+        <item itemvalue="Application.JdkDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a76f5f1-3895-4e79-bf03-0b6613a4fdb8" name="Default" comment="" />
+      <created>1588989667674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588989667674</updated>
+      <workItem from="1588989668980" duration="3232000" />
+      <workItem from="1588996289163" duration="3810000" />
+      <workItem from="1589000132229" duration="509000" />
+      <workItem from="1589091952913" duration="64000" />
+      <workItem from="1589092784144" duration="326000" />
+      <workItem from="1589093151769" duration="862000" />
+      <workItem from="1589094019538" duration="1800000" />
+      <workItem from="1589095827183" duration="143000" />
+      <workItem from="1589095972943" duration="11757000" />
+      <workItem from="1589170562792" duration="6430000" />
+      <workItem from="1589206692523" duration="335000" />
+      <workItem from="1589255994411" duration="2914000" />
+      <workItem from="1589343609329" duration="2031000" />
+      <workItem from="1589374190139" duration="2774000" />
+      <workItem from="1589427318964" duration="2259000" />
+      <workItem from="1589429926541" duration="7000" />
+      <workItem from="1589430104473" duration="2813000" />
+      <workItem from="1589604693465" duration="1114000" />
+      <workItem from="1589608003140" duration="321000" />
+      <workItem from="1589608368681" duration="327000" />
+      <workItem from="1589608711160" duration="44000" />
+      <workItem from="1589608759120" duration="257000" />
+      <workItem from="1589609485088" duration="1210000" />
+      <workItem from="1589610833226" duration="747000" />
+      <workItem from="1589613477194" duration="46000" />
+      <workItem from="1589613982474" duration="19000" />
+      <workItem from="1589614085999" duration="1723000" />
+      <workItem from="1589620417271" duration="657000" />
+      <workItem from="1589624011839" duration="4000" />
+      <workItem from="1589624228902" duration="47000" />
+      <workItem from="1589624352203" duration="427000" />
+      <workItem from="1589625507907" duration="14288000" />
+      <workItem from="1590664252245" duration="1746000" />
+      <workItem from="1590720449943" duration="4172000" />
+      <workItem from="1590902192128" duration="26000" />
+      <workItem from="1590995299366" duration="1476000" />
+      <workItem from="1591097082417" duration="653000" />
+      <workItem from="1591097791948" duration="10226000" />
+      <workItem from="1591111268800" duration="6000" />
+      <workItem from="1591111355935" duration="150000" />
+      <workItem from="1591111521772" duration="2000" />
+      <workItem from="1591261353450" duration="10295000" />
+      <workItem from="1591282196229" duration="4975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1591105062084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1591105062084" />
+    <state x="647" y="273" key="#Notifications" timestamp="1591288067972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="273" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1591288067972" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1591261479690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1591261479690" />
+    <state x="387" y="2" key="#ZcEurekaApplication" timestamp="1591098571745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="2" key="#ZcEurekaApplication/0.0.1536.824@0.0.1536.824" timestamp="1591098571745" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591104808780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591104808780" />
+    <state x="497" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591101409083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1591101409083" />
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1591104806294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1591104806294" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1589636305527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589636305527" />
+    <state x="566" y="318" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1591101683091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="318" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1591101683091" />
+    <state x="379" y="334" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591101464706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="379" y="334" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1591101464706" />
+    <state x="517" y="273" width="501" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591099153470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="273" width="501" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1591099153470" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591287958318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591287958318" />
+    <state x="637" y="309" key="Github.ShareDialog" timestamp="1591288243253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="309" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1591288243253" />
+    <state width="1493" height="308" key="GridCell.Tab.0.bottom" timestamp="1591276696040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591276696040" />
+    <state width="1493" height="308" key="GridCell.Tab.0.center" timestamp="1591276696040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591276696040" />
+    <state width="1493" height="308" key="GridCell.Tab.0.left" timestamp="1591276696040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591276696040" />
+    <state width="1493" height="308" key="GridCell.Tab.0.right" timestamp="1591276696040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591276696040" />
+    <state width="1493" height="308" key="GridCell.Tab.1.bottom" timestamp="1591276696042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591276696042" />
+    <state width="1493" height="308" key="GridCell.Tab.1.center" timestamp="1591276696041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591276696041" />
+    <state width="1493" height="308" key="GridCell.Tab.1.left" timestamp="1591276696040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591276696040" />
+    <state width="1493" height="308" key="GridCell.Tab.1.right" timestamp="1591276696042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591276696042" />
+    <state width="1192" height="231" key="GridCell.Tab.2.bottom" timestamp="1591276696030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1192" height="231" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591276696030" />
+    <state width="1192" height="231" key="GridCell.Tab.2.center" timestamp="1591276696030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1192" height="231" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591276696030" />
+    <state width="1192" height="231" key="GridCell.Tab.2.left" timestamp="1591276696030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1192" height="231" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591276696030" />
+    <state width="1192" height="231" key="GridCell.Tab.2.right" timestamp="1591276696030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1192" height="231" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591276696030" />
+    <state x="349" y="155" key="IDE.errors.dialog" timestamp="1591104596147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1591104596147" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1591097863254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1591097863254" />
+    <state x="324" y="223" key="Registry" timestamp="1591105508476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="324" y="223" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1591105508476" />
+    <state x="262" y="0" key="SettingsEditor" timestamp="1591288382588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="262" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591288382588" />
+    <state x="131" y="23" key="new project wizard" timestamp="1591261474251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="131" y="23" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591261474251" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../develop/maven3.6.0/MavenRepository/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE.jar!/org/springframework/web/client/RestTemplate.class</url>
+          <line>185</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demotest/src/JdkDemo.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demotest/src/JdkDemo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

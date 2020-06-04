@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demotest/demotest.iml" filepath="$PROJECT_DIR$/demotest/demotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-vue/hello-vue.iml" filepath="$PROJECT_DIR$/hello-vue/hello-vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zc-service-consumer/zc-service-consumer.iml" filepath="$PROJECT_DIR$/zc-service-consumer/zc-service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zc_eureka/zc_eureka.iml" filepath="$PROJECT_DIR$/zc_eureka/zc_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zc_service_provide/zc_service_provide.iml" filepath="$PROJECT_DIR$/zc_service_provide/zc_service_provide.iml" />
+    </modules>
+  </component>
+</project>
