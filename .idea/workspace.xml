@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a76f5f1-3895-4e79-bf03-0b6613a4fdb8" name="Default" comment="" />
+    <list default="true" id="3a76f5f1-3895-4e79-bf03-0b6613a4fdb8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -43,6 +49,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bycuQUr8tjqCjE9MFdsyuO5hrX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,6 +65,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSP" />
@@ -313,6 +321,7 @@
       <workItem from="1591111521772" duration="2000" />
       <workItem from="1591261353450" duration="10295000" />
       <workItem from="1591282196229" duration="4975000" />
+      <workItem from="1591288469795" duration="1166000" />
     </task>
     <servers />
   </component>
@@ -333,14 +342,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1591105062084" />
-    <state x="647" y="273" key="#Notifications" timestamp="1591288067972">
+    <state x="647" y="273" key="#Notifications" timestamp="1591288708181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="273" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1591288067972" />
+    <state x="647" y="273" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1591288708181" />
     <state x="249" y="0" key="#Project_Structure" timestamp="1591261479690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1591261479690" />
+    <state x="552" y="193" key="#Web_Browsers" timestamp="1591289340553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="193" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1591289340553" />
     <state x="387" y="2" key="#ZcEurekaApplication" timestamp="1591098571745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -373,14 +386,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="517" y="273" width="501" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1591099153470" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591287958318">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1591289323648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591287958318" />
-    <state x="637" y="309" key="Github.ShareDialog" timestamp="1591288243253">
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591289323648" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1591289149533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="637" y="309" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1591288243253" />
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591289149533" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591289619623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591289619623" />
+    <state x="637" y="309" width="261" height="301" key="Github.ShareDialog" timestamp="1591289252985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="309" width="261" height="301" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1591289252985" />
+    <state x="382" y="109" key="Github.UntrackedFilesDialog" timestamp="1591288512459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="382" y="109" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591288512459" />
     <state width="1493" height="308" key="GridCell.Tab.0.bottom" timestamp="1591276696040">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -441,10 +466,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="324" y="223" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1591105508476" />
-    <state x="262" y="0" key="SettingsEditor" timestamp="1591288382588">
+    <state x="262" y="0" key="SettingsEditor" timestamp="1591289608404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="262" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591288382588" />
+    <state x="262" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591289608404" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591289152816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591289152816" />
     <state x="131" y="23" key="new project wizard" timestamp="1591261474251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
